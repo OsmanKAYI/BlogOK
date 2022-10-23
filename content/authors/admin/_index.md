@@ -33,7 +33,7 @@ education:
   courses:
     - course: Bachelor's Degree of Civil Engineering
       institution: Ankara Yıldırım Beyazıt University
-      year: ""
+      year: 2021
     - institution: Ankara Yıldırım Beyazıt University
       course: PhD
       year: ""
