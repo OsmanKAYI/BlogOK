@@ -25,31 +25,22 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: osmankayi06@gmail.com
+  phone: +90 5** *** ** **
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    street: Etlik
+    city: Ankara
     postcode: '06210'
     country: Türkiye
     country_code: TR
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Send me a message
+      link: 'https://www.linkedin.com/in/osman-kayi-0761aa173/'
 
 design:
   columns: '2'

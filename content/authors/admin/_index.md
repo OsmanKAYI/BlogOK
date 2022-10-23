@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_2771.jpg
+avatar_filename: /authors/admin/img_2771.jpg
 bio: My research interests include earthquake, structural analysis, structural
   dynamics and structural health monitoring(SHM).
 interests:
