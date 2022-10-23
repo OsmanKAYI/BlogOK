@@ -31,15 +31,12 @@ organizations:
     url: https://aybu.edu.tr/
 education:
   courses:
-    - course: Structural Analysis
+    - course: Bachelor's Degree of Civil Engineering
       institution: Ankara Yıldırım Beyazıt University
-      year: 2019
+      year: ""
     - institution: Ankara Yıldırım Beyazıt University
-      course: Structural Dynamics
-      year: 2019
-    - institution: Ankara Yıldırım Beyazıt University
-      year: 2020
-      course: Earthquake Engineering
+      course: PhD
+      year: ""
 superuser: true
 last_name: Bighetti
 role: "PhD Student in civil engineering department at Ankara Yıldırım Beyazıt
