@@ -3,13 +3,14 @@ avatar_filename: img_2771.jpg
 bio: My research interests include earthquake, structural analysis, structural
   dynamics and structural health monitoring(SHM).
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Earthquakes
+  - Programing
 social:
   - icon: orcid
-    icon_pack: fas
+    icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0002-3883-8808
+    display:
+      header: false
   - icon: flask
     icon_pack: fas
     link: https://www.webofscience.com/wos/author/record/GXP-3529-2022
