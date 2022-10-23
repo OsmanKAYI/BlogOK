@@ -51,4 +51,4 @@ email: osmankayi06@gmail.com
 ---
 Osman Kayı is a PhD student in civil engineering department at Ankara Yıldırım Beyazıt University. His research interests include earthquake, structural analysis, structural dynamics and structural health monitoring(SHM). He is also interested in programing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="img_2771.jpg" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
