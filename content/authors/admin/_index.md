@@ -43,7 +43,7 @@ role: "PhD Student in civil engineering department at Ankara Yıldırım Beyazı
   University "
 highlight_name: true
 title: Osman Kayı
-first_name: Alice
+first_name: Osman
 email: osmankayi06@gmail.com
 ---
 Osman Kayı is a PhD student in civil engineering department at Ankara Yıldırım Beyazıt University. His research interests include earthquake, structural analysis, structural dynamics and structural health monitoring(SHM). He is also interested in programing.
